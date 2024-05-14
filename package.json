@@ -1,8 +1,8 @@
 {
   "name": "theme-p3",
   "displayName": "P3 Theme",
-  "description": "A minimal dark theme inspired by the colors seen on the monochrome monitors of the 80s.",
-  "version": "0.1.0",
+  "description": "A minimal dark theme inspired by the amber colors seen on the monochrome monitors of the 80s.",
+  "version": "0.1.1",
   "publisher": "nvartolomei",
   "engines": {
     "vscode": "^1.77.0"
